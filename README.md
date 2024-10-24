@@ -11,3 +11,10 @@ If you have git clones from prior to the move to the PHPMailer GitHub organisati
 
 ```git remote set-url upstream https://github.com/PHPMailer/PHPMailer.git```
 
+Please don't use the SourceForge or Google Code projects any more; they are obsolete and no longer maintained.
+
+## Sponsorship
+Development time and resources for PHPMailer are provided by [Smartmessages.net](https://info.smartmessages.net/), the world's only privacy-first email marketing system.
+
+[![Smartmessages LOGO](https://camo.githubusercontent.com/1c9fac2c126b725…d672f736d6172746d657373616765732d6c6f676f2e737667)](https://info.smartmessages.net/)
+
