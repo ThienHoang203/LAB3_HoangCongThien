@@ -26,5 +26,4 @@ See [changelog](https://github.com/PHPMailer/PHPMailer/blob/master/changelog.md)
 ## History
 - PHPMailer was originally written in 2001 by Brent R. Matzelle as a [SourceForge project](https://sourceforge.net/projects/phpmailer/).
 - [Marcus Bointon](https://github.com/Synchro)(```coolbru```
- on SF) and Andy Prevost (```codeworxtech```
-) took over the project in 2004.
+ on SF) and Andy Prevost (`codeworxtech`) took over the project in 2004.
